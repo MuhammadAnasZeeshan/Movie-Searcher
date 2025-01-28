@@ -11,7 +11,7 @@ Movie Searcher is a website project built with React.js for the user interface, 
 - React.js
 - Appwrite
 - Tailwind CSS
-- 
+
 ## <a name="features">🔋 Features</a>
 
 ➡ **Browse All Movies**: Discover a diverse collection of movies available on the platform.
